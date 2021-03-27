@@ -1,6 +1,250 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3cd48f5-ef54-4c7f-b8e0-061320aa3fed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/uva_141_dollars.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uva.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uva.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="3af81bbd-db1d-493a-99db-4705d9015f19" />
+  <component name="ProjectId" id="1h2OzlyLpjFqq5N0IVuR7mbyVpG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/in.txt" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.uva_429_word_transformation">
+    <configuration name="uva_111_history_grading" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="uva" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uva_111_history_grading.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/in.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uva_141_dollars" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="uva" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uva_141_dollars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/in.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="uva_429_word_transformation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="uva" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/uva_429_word_transformation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/in.txt" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.uva_141_dollars" />
+      <item itemvalue="Python.uva_111_history_grading" />
+      <item itemvalue="Python.uva_429_word_transformation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.uva_429_word_transformation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3cd48f5-ef54-4c7f-b8e0-061320aa3fed" name="Default Changelist" comment="" />
+      <created>1599205984804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599205984804</updated>
+      <workItem from="1599205989864" duration="62000" />
+      <workItem from="1599206119625" duration="2496000" />
+      <workItem from="1599215704958" duration="7719000" />
+      <workItem from="1599567777787" duration="1194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="0" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599567958320">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="141" y="0" width="1084" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1599567958320" />
+    <state x="141" y="25" width="1084" height="743" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1366.743@0.25.1366.743" timestamp="1599219209009" />
+    <state x="466" y="104" width="424" height="580" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1599206401535">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="466" y="104" width="424" height="580" key="#com.intellij.ide.macro.MacrosDialog/0.25.1366.743@0.25.1366.743" timestamp="1599206401535" />
+    <state x="441" y="133" key="#xdebugger.evaluate" timestamp="1599221440746">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="441" y="133" key="#xdebugger.evaluate/0.25.1366.743@0.25.1366.743" timestamp="1599221440746" />
+    <state x="466" y="133" width="424" height="480" key="FileChooserDialogImpl" timestamp="1599567954206">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="466" y="133" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1599567954206" />
+    <state x="466" y="154" width="424" height="480" key="FileChooserDialogImpl/0.25.1366.743@0.25.1366.743" timestamp="1599219195768" />
+    <state width="1324" height="201" key="GridCell.Tab.0.bottom" timestamp="1599569049813">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="201" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1599569049813" />
+    <state width="1314" height="147" key="GridCell.Tab.0.bottom/0.25.1366.743@0.25.1366.743" timestamp="1599230070474" />
+    <state width="1324" height="201" key="GridCell.Tab.0.center" timestamp="1599569049813">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="201" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1599569049813" />
+    <state width="1314" height="147" key="GridCell.Tab.0.center/0.25.1366.743@0.25.1366.743" timestamp="1599230070474" />
+    <state width="1324" height="201" key="GridCell.Tab.0.left" timestamp="1599569049813">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="201" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1599569049813" />
+    <state width="1314" height="147" key="GridCell.Tab.0.left/0.25.1366.743@0.25.1366.743" timestamp="1599230070474" />
+    <state width="1324" height="201" key="GridCell.Tab.0.right" timestamp="1599569049813">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="201" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1599569049813" />
+    <state width="1314" height="147" key="GridCell.Tab.0.right/0.25.1366.743@0.25.1366.743" timestamp="1599230070474" />
+    <state width="1324" height="385" key="GridCell.Tab.1.bottom" timestamp="1599568084651">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="385" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1599568084651" />
+    <state width="1314" height="147" key="GridCell.Tab.1.bottom/0.25.1366.743@0.25.1366.743" timestamp="1599230070475" />
+    <state width="1324" height="385" key="GridCell.Tab.1.center" timestamp="1599568084651">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="385" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1599568084651" />
+    <state width="1314" height="147" key="GridCell.Tab.1.center/0.25.1366.743@0.25.1366.743" timestamp="1599230070475" />
+    <state width="1324" height="385" key="GridCell.Tab.1.left" timestamp="1599568084651">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="385" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1599568084651" />
+    <state width="1314" height="147" key="GridCell.Tab.1.left/0.25.1366.743@0.25.1366.743" timestamp="1599230070474" />
+    <state width="1324" height="385" key="GridCell.Tab.1.right" timestamp="1599568084651">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1324" height="385" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1599568084651" />
+    <state width="1314" height="147" key="GridCell.Tab.1.right/0.25.1366.743@0.25.1366.743" timestamp="1599230070475" />
+    <state x="0" y="25" width="974" height="449" key="dock-window-1" timestamp="1599207401733">
+      <screen x="0" y="25" width="1366" height="743" />
+    </state>
+    <state x="0" y="25" width="974" height="449" key="dock-window-1/0.25.1366.743@0.25.1366.743" timestamp="1599207401733" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/uva_429_word_transformation.py</url>
+          <line>66</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/uva_429_word_transformation.py</url>
+          <line>67</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/uva$uva_141_dollars.coverage" NAME="uva_141_dollars Coverage Results" MODIFIED="1599567891607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/uva$uva_429_word_transformation.coverage" NAME="uva_429_word_transformation Coverage Results" MODIFIED="1599569049800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/uva$uva_111_history_grading.coverage" NAME="uva_111_history_grading Coverage Results" MODIFIED="1599207958192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
