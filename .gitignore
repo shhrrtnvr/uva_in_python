@@ -1,2 +1,5 @@
 in.txt
 out.txt
+.idea
+.vscode
+venv
